@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FBCDC5B41A8B4923008B1F8C /* CalculatorBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBCDC5B31A8B4923008B1F8C /* CalculatorBrain.swift */; };
 		FBD292931A7F183D001FDF26 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBD292921A7F183D001FDF26 /* AppDelegate.swift */; };
 		FBD292951A7F183D001FDF26 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBD292941A7F183D001FDF26 /* ViewController.swift */; };
 		FBD292981A7F183D001FDF26 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FBD292961A7F183D001FDF26 /* Main.storyboard */; };
@@ -26,6 +27,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		FBCDC5B31A8B4923008B1F8C /* CalculatorBrain.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalculatorBrain.swift; sourceTree = "<group>"; };
 		FBD2928D1A7F183D001FDF26 /* Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FBD292911A7F183D001FDF26 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FBD292921A7F183D001FDF26 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 		FBD2928F1A7F183D001FDF26 /* Calculator */ = {
 			isa = PBXGroup;
 			children = (
+				FBCDC5B31A8B4923008B1F8C /* CalculatorBrain.swift */,
 				FBD292941A7F183D001FDF26 /* ViewController.swift */,
 				FBD292961A7F183D001FDF26 /* Main.storyboard */,
 				FBD292901A7F183D001FDF26 /* Supporting Files */,
@@ -212,6 +215,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FBCDC5B41A8B4923008B1F8C /* CalculatorBrain.swift in Sources */,
 				FBD292951A7F183D001FDF26 /* ViewController.swift in Sources */,
 				FBD292931A7F183D001FDF26 /* AppDelegate.swift in Sources */,
 			);
